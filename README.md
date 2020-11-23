@@ -1,4 +1,4 @@
-# JavaScript-Color_game
+# JavaScript-Color-game
 <p>
 This application gives user one randomly selected color written in RGB model and aslo six colored
 squares. User should figure out which square is colored in that one given RGB color.</p>
